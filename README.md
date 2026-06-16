@@ -19,3 +19,8 @@ Files:
 - model.pkl → Saved trained model
 
 Built using Pydroid 3.
+## Preview
+
+![Provision AI Screenshot 1](Screenshot_20260616_090001.jpg)
+
+![Provision AI Screenshot 2](Screenshot_20260616_085759.jpg)
